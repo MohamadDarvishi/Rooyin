@@ -1,0 +1,82 @@
+/* نمونه‌ای از قرارگیری فونت متغیر در وب سایت*/
+
+@font-face {
+	font-family: RooyinVF;
+	font-style: normal;
+	font-weight: normal;
+	src: url('woff2/RooyinVF.woff2') format('woff2');	
+    font-display: fallback; 
+}
+
+/* نمونه‌ای از قرارگیری فونت استاتیک در وب سایت*/
+@font-face {
+	font-family: Rooyin;
+	font-style: normal;
+	font-weight: normal;
+	src: url('woff2/Rooyin-Regular.woff2') format('woff2');	
+    font-display: fallback; 
+}
+
+@font-face {
+	font-family: Rooyin;
+	font-style: normal;
+	font-weight: 500;
+	src: url('woff2/Rooyin-Medium.woff2') format('woff2');	
+    font-display: fallback; 
+}
+
+@font-face {
+	font-family: Rooyin;
+	font-style: normal;
+	font-weight: Bold;
+	src: url('woff2/Rooyin-Bold.woff2') format('woff2');	
+    font-display: fallback; 
+}
+
+
+
+/* فعال کردن ویژگی های مختلف*/
+
+.sample_tabular_numbers {
+font-feature-settings: "ss01";
+}
+
+.sample_tabular_numbers {
+font-feature-settings: "ss02";
+}
+
+.sample_tabular_numbers {
+font-feature-settings: "ss03";
+}
+
+.sample_tabular_numbers {
+font-feature-settings: "ss04";
+}
+
+.sample_tabular_numbers {
+font-feature-settings: "ss05";
+}
+
+.sample_tabular_numbers {
+font-feature-settings: "ss06";
+}
+
+/* ویژگی اعداد SubScript*/
+.sample_tabular_numbers {
+font-feature-settings: "subs";
+}
+
+/* ویژگی اعداد SuperScript*/
+.sample_tabular_numbers {
+font-feature-settings: "sups";
+}
+
+/* ویژگی Swash*/
+.sample_tabular_numbers {
+font-feature-settings: "swsh";
+}
+
+/* ویژگی اعداد Tabular*/
+.sample_tabular_numbers {
+font-feature-settings: "tnum";
+}
