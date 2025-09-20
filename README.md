@@ -1,7 +1,4 @@
 # Rooyin Free | رویین آزاد
-
-فونت رویین به زودی منتشر خواهد شد.
-
 ![Rooyin free](Documentation/Rooyin.png)
 ![Rooyin free](Documentation/0.png)
 ![Rooyin free](Documentation/1.png)
@@ -11,5 +8,7 @@
 رویین آزاد در دو وزن و دو استایل نقطه طراحی شده و از زبان‌های فارسی، عربی، کُردی، تُرکی و اردو پشتیبانی می‌کند.
 
 
-<li><a href="https://www.fontiran.com/rooyin">صفحۀ اصلی پروژه</a></li>
+<li><a href="https://www.fontiran.com/fonts/rooyin">صفحۀ اصلی پروژه</a></li>
+<li><a href="https://www.fontiran.com/fonts/rooyin">حمایت مالی</a></li>
+<li><a href="https://daramet.com/mdarvishi5124">حمایت مالی ۲</a></li>
 <li><a href="https://github.com/MohamadDarvishi/Rooyin/blob/main/CHANGELOG.md">فهرست تغییرات</a></li>
